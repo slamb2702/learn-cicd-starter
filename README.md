@@ -5,6 +5,7 @@ This repo contains the starter code for the "Notely" application for the "Learn 
 
 ![dynamic image](https://github.com/slamb2702/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
+
 ## Local Development
 
 Make sure you're on Go version 1.22+.
